@@ -1,0 +1,19 @@
+.header{
+  background-color: black;
+  height: 70px;
+  color: white;
+ }
+ 
+.header-links{
+  color: white;
+}
+ .nav-item > .header-links>.active{
+  color: gray;
+}
+
+.brand-name{
+  font-size: 30px;
+  font-family: "Gwendolyn", cursive;
+  font-weight: 800;
+  font-style: normal;
+}

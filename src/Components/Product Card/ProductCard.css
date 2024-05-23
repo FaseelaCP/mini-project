@@ -1,0 +1,20 @@
+.card{
+  width: 300px;
+  height: 600px;
+}
+.card img{
+  height:200px;
+}
+.card .card-title{
+    color: black;
+    
+}
+.product-card .card-body a {
+  text-decoration: none;
+  color: inherit; /* Optionally, to maintain the original text color */
+}
+
+.card .card-text{
+  height: 60px;
+  
+}
